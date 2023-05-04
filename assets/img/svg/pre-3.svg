@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 43 28.5" style="enable-background:new 0 0 43 28.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F94B81;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#FFFFFF;stroke:#F94B81;stroke-miterlimit:10;}
+	.st3{font-family:'ArialRoundedMTBold';}
+	.st4{font-size:2.6417px;}
+	.st5{font-size:3.6553px;}
+</style>
+<g>
+	<circle class="st0" cx="21.5" cy="7.7" r="5.3"/>
+	<g>
+		<path class="st0" d="M21.5,14.3c-4.8,0-8.8,4.6-9.3,10.5c-0.1,0.8,0.5,1.4,1.3,1.4h16c0.8,0,1.4-0.7,1.3-1.4
+			C30.2,18.9,26.3,14.3,21.5,14.3z"/>
+	</g>
+</g>
+<g>
+	<circle class="st1" cx="30.8" cy="18.2" r="6"/>
+	<circle class="st2" cx="30.8" cy="18.2" r="4.9"/>
+</g>
+<text transform="matrix(1 0 0 1 28.817 20.7581)" class="st0 st3 st4">OK</text>
+<g>
+	<text transform="matrix(1 0 0 1 28.4037 17.962)" class="st0 st3 st5">18</text>
+</g>
+</svg>
